@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aayzaa.aayzaa)
 
-_Hi, I'm Alex! a Computer Science student 💻 from Barcelona. I'm always interested in the backend end of things and I'm an AI enthusiast!_
+_Hi, I'm Alex! a Computer Science student 💻 from Barcelona. I'm always interested in the backend side of things and I'm an AI enthusiast!_
   
 **About me:**
 
