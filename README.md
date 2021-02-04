@@ -1,11 +1,11 @@
-### Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/alexayza/">
   <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aayzaa.aayzaa)
 
-_I'm Alex! a Computer Science student 💻 from Barcelona. I'm always interested in the backend side of things and I'm an AI enthusiast!_
+_I'm Alex! A Computer Science student 💻 from Barcelona. I'm always interested in the backend side of things and I'm an AI enthusiast!_
   
 **About me:**
 
