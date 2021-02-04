@@ -2,15 +2,10 @@
 <a href="https://www.linkedin.com/in/alexayza/">
   <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aayzaa.aayzaa)
 
-<br />
-
-Hi, I'm Alex Ayza!, a Computer Science student 💻 from Spain, expecting to graduate in 2022. I'm always interested in the backend end of things and I'm an AI enthusiast! 
+Hi, I'm Alex Ayza! a Computer Science student 💻 from Barcelona. I'm always interested in the backend end of things and I'm an AI enthusiast! 
   
 **Talking about Personal Stuffs:**
 
@@ -24,7 +19,3 @@ Hi, I'm Alex Ayza!, a Computer Science student 💻 from Spain, expecting to gra
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aayzaa&show_icons=true&theme=gotham" alt="aayzaa" />
