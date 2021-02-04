@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/alexayza/">
   <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=aayzaa.aayzaa)
 
 Hi, I'm Alex Ayza! a Computer Science student 💻 from Barcelona. I'm always interested in the backend end of things and I'm an AI enthusiast! 
