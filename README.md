@@ -4,13 +4,13 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aayzaa.aayzaa)
+
+_Hi, I'm Alex! a Computer Science student 💻 from Barcelona. I'm always interested in the backend end of things and I'm an AI enthusiast!_
   
 **About me:**
 
-_Hi, I'm Alex Ayza! a Computer Science student 💻 from Barcelona. I'm always interested in the backend end of things and I'm an AI enthusiast!_
-
-- 👨🏻‍💻🚀  I’m currently looking for a summer 2021 internship;
-- 🌱 Currently learning machine learning; 
+- 👨🏻‍💻🚀  Currently looking for a summer 2021 internship;
+- 🌱 Learning machine learning; 
 - 📫 How to reach me: [alexayzaleon@gmail.com](mailto:alexayzaleon@gmail.com);
 - 📝[Resume](https://pdfhost.io/v/FQlXfBZzQ_Copia_de_ALEX_AYZA_LEN.pdf)
 
