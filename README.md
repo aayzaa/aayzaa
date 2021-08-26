@@ -9,7 +9,7 @@ _I'm Alex! A Computer Science student 💻 from Barcelona. I'm always interested
   
 **About me:**
 
-- 👨🏻‍💻🚀 Data Engineer Intern at [Rentals United](https://rentalsunited.com/)
+- 👨🏻‍💻🚀 Data Engineer at [Rentals United](https://rentalsunited.com/)
 - 🌱 Learning machine learning
 - 📫 How to reach me: [alexayzaleon@gmail.com](mailto:alexayzaleon@gmail.com)
 - 📝 [Resume](https://pdfhost.io/v/FQlXfBZzQ_Copia_de_ALEX_AYZA_LEN.pdf)
